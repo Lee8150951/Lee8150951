@@ -5,7 +5,7 @@
 ## 📈Statistics
 <div align="left">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee8150951&layout=compact&langs_count=8" />
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span>&nbsp;&nbsp;</span>
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lee8150951" />
 </div>
 <!--
