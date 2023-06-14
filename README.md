@@ -4,8 +4,8 @@
     </a>
 </p>
 
-## 🍪About
-```typescipt
+## 🍪 About
+```TypeScript
 class Me {
         public contact(): object {
                 const qq = '1702476100';
@@ -31,7 +31,7 @@ class Me {
 }
 ```
 
-## 📈Statistics
+## 📈 Statistics
 <div align="left">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee8150951&layout=compact&langs_count=8" />
     <span>&nbsp;&nbsp;</span>
