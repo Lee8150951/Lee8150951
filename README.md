@@ -1,6 +1,35 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ACBAC7&center=true&vCenter=true&width=435&lines=Hi%2C+there!+I'm+Oreo." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ACBAC7&center=true&vCenter=true&width=435&lines=Hi%2C+there!+I'm+Oreo." alt="Typing SVG" />
+    </a>
 </p>
+
+## 🍪About
+```typescipt
+class Me {
+        public contact(): object {
+                const qq = '1702476100';
+                const mail = 'Liys9875@outlook.com';
+                return { qq, mail };
+        }
+      
+        public track(): Array<string> {
+                const track = ['Akalin🤣', 'Hubei', 'Guangdong'];
+                return track;
+        }
+      
+        public coding(): object {
+                const techs = {
+                        major_in: ['JavaScript', 'TypeScript'],
+                        average: ['Python'],
+                        learning: ['Dart', 'Rust'],
+                }
+                const ides = ['WebStorm', 'VScode'];
+                const targets = ['fullstack'];
+                return { techs, ides, targets };
+        }
+}
+```
 
 ## 📈Statistics
 <div align="left">
