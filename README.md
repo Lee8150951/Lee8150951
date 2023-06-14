@@ -1,9 +1,9 @@
 ### 👋 Hi, there!
 
+## 📈Statistics
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Lee8150951" />
 </div>
-[![Lee8150951's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lee8150951)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Lee8150951/Lee8150951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
