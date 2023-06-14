@@ -3,10 +3,14 @@
 </p>
 
 ## 📈Statistics
-<div align="center">
+<div align="left">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Lee8150951" />
+    <span>  </span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee8150951&layout=compact&langs_count=8" />
     <span>  </span>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Lee8150951" />
+</div>
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lee8150951" />
 </div>
 <!--
 **Lee8150951/Lee8150951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
